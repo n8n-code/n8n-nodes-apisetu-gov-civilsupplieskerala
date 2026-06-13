@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-apisetu-gov-civilsupplieskerala",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kerala Civil Supplies Department issues ration cards under Food, Civil Supplies and Consumer Affairs.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-apisetu-gov-civilsupplieskerala",
